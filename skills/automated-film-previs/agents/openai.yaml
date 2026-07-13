@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automated Film Previs"
+  short_description: "Plan consistent AI films before video rendering"
+  default_prompt: "Use $automated-film-previs to turn my film idea into a production bible, English-dialogue script, storyboard, action sheets, and an approved video-render plan."
